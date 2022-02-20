@@ -10,6 +10,6 @@
     <h1>Site d'E-commerce</h1>
 
     <h2>Paragraphe écrit par toto</h2>
-    <p>Weeeee !</p>
+    <p>Weeeee ! Ok j'arrête de déconner</p>
 </body>
 </html>
