@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>Site d'E-commerce</h1>
+
+    <p>Paragraphe écrit par toto</p>
 </body>
 </html>
