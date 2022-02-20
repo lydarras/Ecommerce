@@ -10,6 +10,7 @@
     <h1>Site d'E-commerce</h1>
 
     <h2>Paragraphe écrit par toto</h2>
-    <p>Je continue à bosser sur mon projet ! En vrai je fais rien !</p>
+    <p>Weeeee ! Ok j'arrête de déconner</p>
+>>>>>>> toto
 </body>
 </html>
