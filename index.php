@@ -9,6 +9,7 @@
 <body>
     <h1>Site d'E-commerce</h1>
 
-    <p>Paragraphe écrit par toto</p>
+    <h2>Paragraphe écrit par toto</h2>
+    <p>Je continue à bosser sur mon projet !</p>
 </body>
 </html>
