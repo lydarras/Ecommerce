@@ -14,7 +14,11 @@
     <ul>
         <li>Joyeux</li>
         <li>Noel</li>
+<<<<<<< HEAD
         <li>OK, c'est toi</li>
+=======
+        <li>OK, c'est toi le boss</li>
+>>>>>>> toto
     </ul>
 </body>
 </html>
