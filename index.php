@@ -11,5 +11,10 @@
 
     <h2>Paragraphe écrit par toto</h2>
     <p>Weeeee ! Ok j'arrête de déconner</p>
+    <ul>
+        <li>Joyeux</li>
+        <li>Noel</li>
+        <li>OK</li>
+    </ul>
 </body>
 </html>
